@@ -35,3 +35,30 @@
 7- Place a paragraph <p>some text</p> inside the div tags.
 
 8- Add 30px of padding to the .box class.
+
+#Challenge: Dotted Shapes#
+Goal of the challenge
+
+Show this shapes in the browser using CSS
+
+dotted shapes
+
+Step by Step
+
+1- Remove the paragraph tag within the <div>
+
+2- Add 2 more boxes to your html in the form of <div> tags
+
+3- Assign each <div> to the box class
+
+4- Create an id for each box (box1, box2, box3)
+
+5- Add a border radius of 200px to box2 and a solid border style to box3.
+
+Extra Challenge
+
+Obtain the following shapes w/ previous HTML
+
+dotted shapes 2 dotted shapes 3 dotted shapes 4
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
